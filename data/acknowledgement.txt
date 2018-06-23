@@ -1,0 +1,8 @@
+
+The 'char74k-digits-and-uppercase.csv' file in this directory was generated from a dataset created by Microsoft Research India.
+
+It was introduced in this paper:
+
+T. E. de Campos, B. R. Babu and M. Varma. Character recognition in natural images. In Proceedings of the International Conference on Computer Vision Theory and Applications (VISAPP), Lisbon, Portugal, February 2009.
+
+The original dataset, 'EnglishHnd.tgz', can be downloaded from this website: http://www.ee.surrey.ac.uk/CVSSP/demos/chars74k/.
